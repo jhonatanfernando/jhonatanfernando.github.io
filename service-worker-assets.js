@@ -61,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-3yMfv0tDXnM0CUCWpXtg91FEtbSyYppg77+WsdMd9o8=",
+      "hash": "sha256-CBU+Hg62tfOcXmE97tCOLXrFdVrKZnNxOhj4pKKnLrg=",
       "url": "index.html"
     },
     {
@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-gwo1aTuEolfQw4+G8fpUxbxZGzTYeddgqdXNmhexJAg=",
+      "hash": "sha256-AZLlmgah2tUYYCJpNgO+A0l7iBnuCbW\/GELXZbxWO84=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -113,11 +113,11 @@
       "url": "_framework\/Microsoft.AspNetCore.Components.dll"
     },
     {
-      "hash": "sha256-0CxRmd6LZ9pvfWSOIpK85niVIpp0VDmCPSvUKt5nJzE=",
+      "hash": "sha256-I1Ty17NMW7AlOj8ok9U21rDik8TD\/wAqYT0goBQ1ZBg=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Forms.dll"
     },
     {
-      "hash": "sha256-IJXN3pa\/zYHG3x\/JwgnIW3WVXEG05jHNucwAmL9\/a7g=",
+      "hash": "sha256-Mn871ad1m+EvOCzpvTJO\/bVN6t85KZCAxl\/v9otqPSU=",
       "url": "_framework\/Microsoft.AspNetCore.Components.Web.dll"
     },
     {
@@ -153,7 +153,7 @@
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-RJE660TEC1wm3MyL1EXQfTQB1qK+JWy1efVUxI8nNUo=",
+      "hash": "sha256-ji3+mrDeYjWjovjopfvQ+aMuQv5CpGHlIApADTkKQ7A=",
       "url": "_framework\/Microsoft.Extensions.Logging.dll"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-MixIYL9ChkubKXohipqxKRkLoB9vqW0CY+liHh122uA=",
+      "hash": "sha256-GbDp9MYtXXyOLGi2cYhYK7EK23Pn5Vh2TQnjXQfKM50=",
       "url": "_framework\/MyJournalBlazor.dll"
     },
     {
@@ -257,7 +257,7 @@
       "url": "_framework\/System.Collections.Specialized.dll"
     },
     {
-      "hash": "sha256-PoIYBsz13UOwBlP3sHDY64XhOvlVN+c0Ljk+S+joqT8=",
+      "hash": "sha256-CozJvatL2bBmLpDLPyQS1ceSL41wGsloe1AX39Gn91w=",
       "url": "_framework\/System.ComponentModel.Annotations.dll"
     },
     {
@@ -273,7 +273,7 @@
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
-      "hash": "sha256-ZEteDABHXUZX3uvCsWh5qi3I78eRGSpEJODJvooEuOw=",
+      "hash": "sha256-Ntf1\/D8L\/1EM+xfMF++WIDj4B3PxqiBWJl3eCYbqY\/U=",
       "url": "_framework\/System.Console.dll"
     },
     {
@@ -713,5 +713,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind.css"
     }
   ],
-  "version": "7mHy6YkR"
+  "version": "M9Q+N+nQ"
 };
