@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-AZLlmgah2tUYYCJpNgO+A0l7iBnuCbW\/GELXZbxWO84=",
+      "hash": "sha256-e6SQtDC3XYQD7JSum\/iqSavST7z7iLpMH1rQJRf7tzQ=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-GbDp9MYtXXyOLGi2cYhYK7EK23Pn5Vh2TQnjXQfKM50=",
+      "hash": "sha256-yNTa+vhxr1dgd7Iw0dc9BGfMzVZ7fPPfNBusyk3HYrc=",
       "url": "_framework\/MyJournalBlazor.dll"
     },
     {
@@ -187,6 +187,10 @@
     {
       "hash": "sha256-JkLA\/SPLJrmtkMCKdeZxKb8SSQGxc08ORkHVBr7+THo=",
       "url": "_framework\/Syncfusion.Blazor.Buttons.dll"
+    },
+    {
+      "hash": "sha256-75IGVztuJVU0TBJndsdVFxY1ymwGE8Ujv+SaGzhz2u8=",
+      "url": "_framework\/Syncfusion.Blazor.Cards.dll"
     },
     {
       "hash": "sha256-\/rpmGc8JagYwE2V3JR+BQTs3O4Qmfi4TYBi3HDplDq0=",
@@ -441,7 +445,7 @@
       "url": "_framework\/System.Xml.XDocument.dll"
     },
     {
-      "hash": "sha256-nGcC2Gz8rrtpV5hupukStC55WBxK9tPEZUbO42sjNig=",
+      "hash": "sha256-pi3jzPhQ\/NNsL\/y3upSFcNvq67JQMBGUOm8zAyx+hTc=",
       "url": "MyJournalBlazor.styles.css"
     },
     {
@@ -713,5 +717,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind.css"
     }
   ],
-  "version": "M9Q+N+nQ"
+  "version": "9cdn\/iRS"
 };
