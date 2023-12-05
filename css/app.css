@@ -100,3 +100,7 @@ a, .btn-link {
         content: var(--blazor-load-percentage-text, "Loading");
     }
 
+
+.e-card.parent .e-card-header .e-card-header-caption .e-card-header-title {
+    font-size: 20px;
+}

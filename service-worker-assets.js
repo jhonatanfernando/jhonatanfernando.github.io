@@ -1,7 +1,7 @@
 ﻿self.assetsManifest = {
   "assets": [
     {
-      "hash": "sha256-GyXEjqSaxmaLJZ1QWGzwFXIb4pHS6z00KJJ8fyyEEXw=",
+      "hash": "sha256-tHK67mJX6qWZhPXqgVA7E8q0VMQ0Xt3wMP2wK9FwxZk=",
       "url": "css\/app.css"
     },
     {
@@ -61,7 +61,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-CBU+Hg62tfOcXmE97tCOLXrFdVrKZnNxOhj4pKKnLrg=",
+      "hash": "sha256-AR4JKXlj6Vex6vQRuUqudB5FgMPfEfPoQCf2OTqZQKw=",
       "url": "index.html"
     },
     {
@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-e6SQtDC3XYQD7JSum\/iqSavST7z7iLpMH1rQJRf7tzQ=",
+      "hash": "sha256-Hj+LCNJqsV7K4H31Desb8mx4KT1CM2qTgxvNXDYFvqc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-yNTa+vhxr1dgd7Iw0dc9BGfMzVZ7fPPfNBusyk3HYrc=",
+      "hash": "sha256-dynKrKfD7gJ09D+CfuOXGByZdaJO1CGQ9nL4UL4oI4k=",
       "url": "_framework\/MyJournalBlazor.dll"
     },
     {
@@ -717,5 +717,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind.css"
     }
   ],
-  "version": "9cdn\/iRS"
+  "version": "S27In1AB"
 };
