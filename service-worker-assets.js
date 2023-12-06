@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-Hj+LCNJqsV7K4H31Desb8mx4KT1CM2qTgxvNXDYFvqc=",
+      "hash": "sha256-6chfUqvZ7kOZ0OcxovR6LHDcvP58nR38Gl9rfF7scC0=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-dynKrKfD7gJ09D+CfuOXGByZdaJO1CGQ9nL4UL4oI4k=",
+      "hash": "sha256-NrKlY5767vWCkXpOJtQIB23zFNVAi+TBeqE7nBcknog=",
       "url": "_framework\/MyJournalBlazor.dll"
     },
     {
@@ -717,5 +717,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind.css"
     }
   ],
-  "version": "S27In1AB"
+  "version": "hcDrPEPW"
 };
