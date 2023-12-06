@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-6chfUqvZ7kOZ0OcxovR6LHDcvP58nR38Gl9rfF7scC0=",
+      "hash": "sha256-jyXGWYiXaiY+4kvRpcPvf7fA1wYzA1cfc+EXSj8YGxM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -173,7 +173,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-NrKlY5767vWCkXpOJtQIB23zFNVAi+TBeqE7nBcknog=",
+      "hash": "sha256-+qViGP03KCdN0CpPidckeP6KFzy7sACZYauPB37eONM=",
       "url": "_framework\/MyJournalBlazor.dll"
     },
     {
@@ -193,12 +193,20 @@
       "url": "_framework\/Syncfusion.Blazor.Cards.dll"
     },
     {
+      "hash": "sha256-dciWZy78PNUzwo8oGVwejPSlN\/vURMdqSkVv36vTtQA=",
+      "url": "_framework\/Syncfusion.Blazor.Charts.dll"
+    },
+    {
       "hash": "sha256-\/rpmGc8JagYwE2V3JR+BQTs3O4Qmfi4TYBi3HDplDq0=",
       "url": "_framework\/Syncfusion.Blazor.Core.dll"
     },
     {
       "hash": "sha256-ujjQ0QIDQEZ9aSQx1RHXWARc9iWwqpgkdepJZPBOH80=",
       "url": "_framework\/Syncfusion.Blazor.Data.dll"
+    },
+    {
+      "hash": "sha256-4kj1LkY01YMGx9xVnv+7ViodH2wHdNlGqwrGTVZg06U=",
+      "url": "_framework\/Syncfusion.Blazor.DataVizCommon.dll"
     },
     {
       "hash": "sha256-U9HzFBMf6oIiSbAIq5G\/BeAkbfC+rCS9xiiJkTmIAKA=",
@@ -245,11 +253,15 @@
       "url": "_framework\/Syncfusion.Licensing.dll"
     },
     {
+      "hash": "sha256-+nt4L9qR\/jVQisg098a7aitz\/evsXTUYKJP\/0cwDIr8=",
+      "url": "_framework\/Syncfusion.PdfExport.Net.dll"
+    },
+    {
       "hash": "sha256-7G5JOk9ihRhUCkOX1KOP02xoRrwnXh9aZ4KoLKReVvQ=",
       "url": "_framework\/System.Collections.Concurrent.dll"
     },
     {
-      "hash": "sha256-ANxA4iY5Orb+2B2Qc1zkCyEMeY3eiGTSzaMu2XgFxC4=",
+      "hash": "sha256-+sZqyNHvXA0EG9\/b3iUSsMn6PwphBEttMHpHM0aAnzw=",
       "url": "_framework\/System.Collections.dll"
     },
     {
@@ -301,11 +313,15 @@
       "url": "_framework\/System.Drawing.dll"
     },
     {
-      "hash": "sha256-XfXO9uMSrXpzT44htWwarOL5V8KYbk2oy5pbnMRpqlE=",
+      "hash": "sha256-bJdMKljBO1Xkmrni7Qa059UwKA4p2HQEoeAlDh2wqlo=",
       "url": "_framework\/System.Drawing.Primitives.dll"
     },
     {
-      "hash": "sha256-2bDeT7c1fk8ZLCvJQB\/dVybkDzXuOvVOBdSLw6Zet+g=",
+      "hash": "sha256-Aq3Pc4GINCr7Bjx3R7JLYdBdKBD6oBVexVQRQE7+Ac8=",
+      "url": "_framework\/System.IO.Compression.dll"
+    },
+    {
+      "hash": "sha256-bjuk484WRmzYflH44yU\/iSktT5AZs5CrmSDQjTW4ZDw=",
       "url": "_framework\/System.Linq.dll"
     },
     {
@@ -337,11 +353,11 @@
       "url": "_framework\/System.Net.Primitives.dll"
     },
     {
-      "hash": "sha256-+t6ls2p6qXcdQCBgULMnfM8jCZGTqIR4kqRmFofp6R4=",
+      "hash": "sha256-Rm1RSdkAsr09Nkmiih93Ib3tJ\/0KlRPHHqzIkDNmczg=",
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-\/U01k71cVbn5gW0lRqojGT2Gady8R5D2+VvAUhCWr3g=",
+      "hash": "sha256-RsSobVqRoVFSIIZ0scGFhV6nTlzxHI4y+B1Bcd1SFf0=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -373,7 +389,7 @@
       "url": "_framework\/System.Reflection.Primitives.dll"
     },
     {
-      "hash": "sha256-JSloKetrg9RDDGvDnz+CHXo0RTufwQ3BwuJZcVzwDyY=",
+      "hash": "sha256-ZLkb+BQRyNaeXfXKhpO0iPTGmXQgmdXll3RPQTkuT8E=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -413,7 +429,7 @@
       "url": "_framework\/System.Text.Encodings.Web.dll"
     },
     {
-      "hash": "sha256-XKBcheajmQabJuHjOQfT0\/ZiYRFs6zpLtvjjePS+5mE=",
+      "hash": "sha256-iWdWq5lv5EDYYVuMG+CzRc2p\/Pa8VuF+MsyStZ1tMMI=",
       "url": "_framework\/System.Text.Json.dll"
     },
     {
@@ -455,6 +471,14 @@
     {
       "hash": "sha256-FLi7x0U3xXzH44udFyR9HYQZ+wIB1hU9SsMKhxVIkVs=",
       "url": "_content\/Syncfusion.Blazor.Buttons\/scripts\/sf-speeddial.min.js"
+    },
+    {
+      "hash": "sha256-QIKJgJ7WA6eeFRuXIyxO9Wu5w3CyeUavDECjs3jBMJw=",
+      "url": "_content\/Syncfusion.Blazor.Charts\/scripts\/sf-accumulation-chart.min.js"
+    },
+    {
+      "hash": "sha256-oiGEsFiq+qjnsIBm7+BeEkDEhnpwBgmFtdmBjmzXxZI=",
+      "url": "_content\/Syncfusion.Blazor.Charts\/scripts\/sf-chart.min.js"
     },
     {
       "hash": "sha256-7nR+V48fAQaHyo3shc0buKyu325dnOZmEI8MttCFbok=",
@@ -717,5 +741,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind.css"
     }
   ],
-  "version": "hcDrPEPW"
+  "version": "w0A1zuJ8"
 };
