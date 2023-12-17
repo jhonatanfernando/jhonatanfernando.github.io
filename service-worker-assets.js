@@ -105,7 +105,7 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-Lf2mgVTjPPQ45ZN6ZB\/LEv8QGWhgc8U91Kz3yQwP6+g=",
+      "hash": "sha256-\/NtGXmJMVi9N\/5Xa5E0+OUJ0Cjmai6VcbR5hq\/4J7l8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -149,7 +149,7 @@
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
-      "hash": "sha256-FvxXs8qE502WAwQhb+NZbTB9CQTSCvkxQqKUEzbQXuc=",
+      "hash": "sha256-zbigIenawY\/AREr\/Ew97U8ewRUZ1X0lAPwi4p1KdH9Y=",
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
@@ -173,8 +173,16 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.dll"
     },
     {
-      "hash": "sha256-CqzS6BwAHRFc8+SPBHN6IGpDyP4H4JppkWVkAXkfNDU=",
+      "hash": "sha256-ETWQJlKiSPDxrkrMr1irJ1nqgfYiGnRpYc\/6NItDuFk=",
       "url": "_framework\/MyJournalBlazor.dll"
+    },
+    {
+      "hash": "sha256-kASqRcgLVAXEhEdFD\/DNfasqyfv4dF5ZaabSR6kxcGk=",
+      "url": "_framework\/Nager.Country.dll"
+    },
+    {
+      "hash": "sha256-BwbteJ5IQpF9zg700LIeMZMOOC+wMWi14C3\/WWmwbXE=",
+      "url": "_framework\/Nager.Country.Translation.dll"
     },
     {
       "hash": "sha256-HfAfKOuadW0S5jZ1P0tp9jdcf9hUxfTEByquCyIF8rE=",
@@ -293,7 +301,7 @@
       "url": "_framework\/System.ComponentModel.TypeConverter.dll"
     },
     {
-      "hash": "sha256-Ntf1\/D8L\/1EM+xfMF++WIDj4B3PxqiBWJl3eCYbqY\/U=",
+      "hash": "sha256-ZEteDABHXUZX3uvCsWh5qi3I78eRGSpEJODJvooEuOw=",
       "url": "_framework\/System.Console.dll"
     },
     {
@@ -361,7 +369,7 @@
       "url": "_framework\/System.ObjectModel.dll"
     },
     {
-      "hash": "sha256-MqzcneDFHlavmLxAYtpnItr34wF10knz9a9MNO2VPa8=",
+      "hash": "sha256-BwU1L30APBRwG2tAOXJFqk6NColleZs7XWjudc4O594=",
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
@@ -393,7 +401,7 @@
       "url": "_framework\/System.Reflection.Primitives.dll"
     },
     {
-      "hash": "sha256-ZLkb+BQRyNaeXfXKhpO0iPTGmXQgmdXll3RPQTkuT8E=",
+      "hash": "sha256-dsn4gFQtWyQbKMH6CgmGLpuaaUnVuY\/lqjI+tBGtB+A=",
       "url": "_framework\/System.Runtime.dll"
     },
     {
@@ -749,5 +757,5 @@
       "url": "_content\/Syncfusion.Blazor.Themes\/tailwind.css"
     }
   ],
-  "version": "LZO3m\/oE"
+  "version": "agT1VK0Q"
 };
